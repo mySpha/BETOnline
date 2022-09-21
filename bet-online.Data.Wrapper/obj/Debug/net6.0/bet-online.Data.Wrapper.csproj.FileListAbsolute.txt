@@ -10,3 +10,15 @@ C:\Repos\bet-online-mps\back-end\bet-online\bet-online.Data.Wrapper\obj\Debug\ne
 C:\Repos\bet-online-mps\back-end\bet-online\bet-online.Data.Wrapper\obj\Debug\net6.0\refint\bet-online.Data.Wrapper.dll
 C:\Repos\bet-online-mps\back-end\bet-online\bet-online.Data.Wrapper\obj\Debug\net6.0\bet-online.Data.Wrapper.pdb
 C:\Repos\bet-online-mps\back-end\bet-online\bet-online.Data.Wrapper\obj\Debug\net6.0\ref\bet-online.Data.Wrapper.dll
+C:\Repos\bet-online-dev-test\bet-online-api\bet-online.Data.Wrapper\bin\Debug\net6.0\bet-online.Data.Wrapper.deps.json
+C:\Repos\bet-online-dev-test\bet-online-api\bet-online.Data.Wrapper\bin\Debug\net6.0\bet-online.Data.Wrapper.dll
+C:\Repos\bet-online-dev-test\bet-online-api\bet-online.Data.Wrapper\bin\Debug\net6.0\bet-online.Data.Wrapper.pdb
+C:\Repos\bet-online-dev-test\bet-online-api\bet-online.Data.Wrapper\obj\Debug\net6.0\bet-online.Data.Wrapper.csproj.AssemblyReference.cache
+C:\Repos\bet-online-dev-test\bet-online-api\bet-online.Data.Wrapper\obj\Debug\net6.0\bet-online.Data.Wrapper.GeneratedMSBuildEditorConfig.editorconfig
+C:\Repos\bet-online-dev-test\bet-online-api\bet-online.Data.Wrapper\obj\Debug\net6.0\bet-online.Data.Wrapper.AssemblyInfoInputs.cache
+C:\Repos\bet-online-dev-test\bet-online-api\bet-online.Data.Wrapper\obj\Debug\net6.0\bet-online.Data.Wrapper.AssemblyInfo.cs
+C:\Repos\bet-online-dev-test\bet-online-api\bet-online.Data.Wrapper\obj\Debug\net6.0\bet-online.Data.Wrapper.csproj.CoreCompileInputs.cache
+C:\Repos\bet-online-dev-test\bet-online-api\bet-online.Data.Wrapper\obj\Debug\net6.0\bet-online.Data.Wrapper.dll
+C:\Repos\bet-online-dev-test\bet-online-api\bet-online.Data.Wrapper\obj\Debug\net6.0\refint\bet-online.Data.Wrapper.dll
+C:\Repos\bet-online-dev-test\bet-online-api\bet-online.Data.Wrapper\obj\Debug\net6.0\bet-online.Data.Wrapper.pdb
+C:\Repos\bet-online-dev-test\bet-online-api\bet-online.Data.Wrapper\obj\Debug\net6.0\ref\bet-online.Data.Wrapper.dll
