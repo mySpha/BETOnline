@@ -1,0 +1,36 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "bet-online.Repository/1.0.0": {
+        "dependencies": {
+          "bet-online.Data": "1.0.0"
+        },
+        "runtime": {
+          "bet-online.Repository.dll": {}
+        }
+      },
+      "bet-online.Data/1.0.0": {
+        "runtime": {
+          "bet-online.Data.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "bet-online.Repository/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "bet-online.Data/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

@@ -1,0 +1,15 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>net6.0</TargetFramework>
+    <RootNamespace>bet_online.UseCase</RootNamespace>
+    <ImplicitUsings>enable</ImplicitUsings>
+    <Nullable>enable</Nullable>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\bet-online.Domain\bet-online.Domain.csproj" />
+    <ProjectReference Include="..\bet-online.Repository\bet-online.Repository.csproj" />
+  </ItemGroup>
+
+</Project>

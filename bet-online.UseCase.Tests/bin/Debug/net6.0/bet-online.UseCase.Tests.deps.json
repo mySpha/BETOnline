@@ -1,0 +1,73 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "bet-online.UseCase.Tests/1.0.0": {
+        "dependencies": {
+          "bet-online.UseCase": "1.0.0"
+        },
+        "runtime": {
+          "bet-online.UseCase.Tests.dll": {}
+        }
+      },
+      "bet-online.Data/1.0.0": {
+        "runtime": {
+          "bet-online.Data.dll": {}
+        }
+      },
+      "bet-online.Domain/1.0.0": {
+        "runtime": {
+          "bet-online.Domain.dll": {}
+        }
+      },
+      "bet-online.Repository/1.0.0": {
+        "dependencies": {
+          "bet-online.Data": "1.0.0"
+        },
+        "runtime": {
+          "bet-online.Repository.dll": {}
+        }
+      },
+      "bet-online.UseCase/1.0.0": {
+        "dependencies": {
+          "bet-online.Domain": "1.0.0",
+          "bet-online.Repository": "1.0.0"
+        },
+        "runtime": {
+          "bet-online.UseCase.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "bet-online.UseCase.Tests/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "bet-online.Data/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "bet-online.Domain/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "bet-online.Repository/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "bet-online.UseCase/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
